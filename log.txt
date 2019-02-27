@@ -1,0 +1,923 @@
+{
+  "movie_title": "Stardust",
+  "release_year": "2007",
+  "imdb_rating": "7.7",
+  "tomatoes_rating": "76%",
+  "country": "UK, USA",
+  "language": "English",
+  "plot": "In a countryside town bordering on a magical land, a young man makes a promise to his beloved that he'll retrieve a fallen star by venturing into the magical realm.",
+  "actors": "Ian McKellen, Bimbo Hart, Alastair MacIntosh, David Kelly"
+}{
+  "song_title": "We Fight",
+  "artist_name": "Dashboard Confessional",
+  "Spotify_url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY",
+  "album_name": "Crooked Shadows"
+}{
+  "song_title": "This Is Why We Fight",
+  "artist_name": "The Decemberists",
+  "Spotify_url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2",
+  "album_name": "The King Is Dead"
+}{
+  "song_title": "Tomorrow We Fight (feat. Svrcina)",
+  "artist_name": "Tommee Profitt",
+  "Spotify_url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU",
+  "album_name": "Cinematic Songs, Vol. 2"
+}{
+  "song_title": "The Fight Song",
+  "artist_name": "Marilyn Manson",
+  "Spotify_url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj",
+  "album_name": "Lest We Forget - The Best Of"
+}{
+  "song_title": "If We Fight (Outro)",
+  "artist_name": "Leedie",
+  "Spotify_url": "https://open.spotify.com/artist/27sbgKfAHP4Z6PrYN6MABX",
+  "album_name": "No Foundations"
+}{
+  "song_title": "What We Fight For",
+  "artist_name": "Various Artists",
+  "Spotify_url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of",
+  "album_name": "Furi (Original Game Soundtrack)"
+}{
+  "song_title": "또 싸워 We Fight Ourselves",
+  "artist_name": "Epik High",
+  "Spotify_url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw",
+  "album_name": "EPIK HIGH - SHOEBOX"
+}{
+  "song_title": "This Day We Fight!",
+  "artist_name": "Megadeth",
+  "Spotify_url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf",
+  "album_name": "ENDGAME"
+}{
+  "song_title": "Without a Fight",
+  "artist_name": "We Are Vessel",
+  "Spotify_url": "https://open.spotify.com/artist/5oOUd9MCX1PnsfolIs7h4X",
+  "album_name": "Lift Your Voice"
+}{
+  "song_title": "We Gon' Fight",
+  "artist_name": "Jennifer Hudson",
+  "Spotify_url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5",
+  "album_name": "Jennifer Hudson"
+}{
+  "song_title": "We Should Fight",
+  "artist_name": "Ezra Furman",
+  "Spotify_url": "https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY",
+  "album_name": "Inside The Human Body"
+}{
+  "song_title": "Why We Fight",
+  "artist_name": "Sungazer",
+  "Spotify_url": "https://open.spotify.com/artist/1uvnDqn7UvVy6orSq1E2YF",
+  "album_name": "Sungazer, Vol. 2"
+}{
+  "song_title": "We Shall Fight",
+  "artist_name": "Dario Marianelli",
+  "Spotify_url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg",
+  "album_name": "Darkest Hour (Original Motion Picture Soundtrack)"
+}{
+  "song_title": "The Melody of a Fallen Tree",
+  "artist_name": "Windsor For The Derby",
+  "Spotify_url": "https://open.spotify.com/artist/1BlsomJZZh7jhA7IvgS1Al",
+  "album_name": "We Fight Til Death"
+}{
+  "song_title": "The Fight",
+  "artist_name": "Sia",
+  "Spotify_url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN",
+  "album_name": "We Are Born"
+}{
+  "song_title": "What We Fight For",
+  "artist_name": "Various Artists",
+  "Spotify_url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of",
+  "album_name": "Destiny 2 (Original Soundtrack)"
+}{
+  "song_title": "Epilogue \"We Will Fight..\"",
+  "artist_name": "Johan Söderqvist",
+  "Spotify_url": "https://open.spotify.com/artist/0Z6bE6kOVhh2DHZPMUz2Sr",
+  "album_name": "Battlefield 1 (Original Soundtrack)"
+}{
+  "song_title": "40th Street Black / We Will Fight",
+  "artist_name": "Wu-Tang Clan",
+  "Spotify_url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk",
+  "album_name": "A Better Tomorrow"
+}{
+  "song_title": "Every Time We Fight",
+  "artist_name": "Will Newman",
+  "Spotify_url": "https://open.spotify.com/artist/3KzweQMnzN5e8bFvAUK1bP",
+  "album_name": "It's Getting Late"
+}{
+  "song_title": "Why do we fight?",
+  "artist_name": "Various Artists",
+  "Spotify_url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of",
+  "album_name": "World of Warcraft: Mists of Pandaria Soundtrack"
+}{
+  "venue": "St. Pat's in Five Points",
+  "city": "Columbia",
+  "state": "SC",
+  "date": "2019-03-16T13:00:39",
+  "name": "Dashboard Confessional"
+}{
+  "venue": "BUKU Music + Art Project",
+  "city": "New Orleans",
+  "state": "LA",
+  "date": "2019-03-23T13:00:43",
+  "name": "Dashboard Confessional"
+}{
+  "venue": "Shaky Knees Festival",
+  "city": "Atlanta",
+  "state": "GA",
+  "date": "2019-05-03T13:00:08",
+  "name": "Dashboard Confessional"
+}{
+  "venue": "Dover International Speedway",
+  "city": "Dover",
+  "state": "DE",
+  "date": "2019-06-21T13:00:39",
+  "name": "Dashboard Confessional"
+}{
+  "movie_title": "The Dark Crystal",
+  "release_year": "1982",
+  "imdb_rating": "7.2",
+  "tomatoes_rating": "73%",
+  "country": "USA, UK",
+  "language": "English",
+  "plot": "On another planet in the distant past, a Gelfling embarks on a quest to find the missing shard of a magical crystal, and so restore order to his world.",
+  "actors": "Jim Henson, Kathryn Mullen, Frank Oz, Dave Goelz"
+}{
+  "venue": "St. Pat's in Five Points",
+  "city": "Columbia",
+  "state": "SC",
+  "date": "2019-03-16T13:00:39",
+  "name": "Dashboard Confessional"
+}{
+  "venue": "BUKU Music + Art Project",
+  "city": "New Orleans",
+  "state": "LA",
+  "date": "2019-03-23T13:00:43",
+  "name": "Dashboard Confessional"
+}{
+  "venue": "Shaky Knees Festival",
+  "city": "Atlanta",
+  "state": "GA",
+  "date": "2019-05-03T13:00:08",
+  "name": "Dashboard Confessional"
+}{
+  "venue": "Dover International Speedway",
+  "city": "Dover",
+  "state": "DE",
+  "date": "2019-06-21T13:00:39",
+  "name": "Dashboard Confessional"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Backstreet Boys",
+  "Spotify_url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7",
+  "album_name": "The Hits--Chapter One"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Backstreet Boys",
+  "Spotify_url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7",
+  "album_name": "Millennium"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Anthem Lights",
+  "Spotify_url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ",
+  "album_name": "Covers Part IV"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Tyler and Mark",
+  "Spotify_url": "https://open.spotify.com/artist/6dBIk14xcZqU0cRsyjXNkX",
+  "album_name": "Beautiful Dreams"
+}{
+  "song_title": "Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)",
+  "artist_name": "\"Weird Al\" Yankovic",
+  "Spotify_url": "https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG",
+  "album_name": "Poodle Hat"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Various Artists",
+  "Spotify_url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of",
+  "album_name": "Punk Goes Pop"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Various Artists",
+  "Spotify_url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of",
+  "album_name": "90 Sweet 90s Hits!"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "NKOTBSB",
+  "Spotify_url": "https://open.spotify.com/artist/4BjHiejt4AKg6BHeCjtAcF",
+  "album_name": "NKOTBSB"
+}{
+  "song_title": "Bye Bye Bye / I Want It That Way (Glee Cast Version)",
+  "artist_name": "Glee Cast",
+  "Spotify_url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm",
+  "album_name": "Bye Bye Bye / I Want It That Way (Glee Cast Version)"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Manuel Costa",
+  "Spotify_url": "https://open.spotify.com/artist/7AbYSzOocUvzy7DSJ9gm68",
+  "album_name": "I Want It That Way"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Boyce Avenue",
+  "Spotify_url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv",
+  "album_name": "Cover Sessions, Vol. 2"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Steel Panther",
+  "Spotify_url": "https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv",
+  "album_name": "I Want It That Way"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Scary Pockets",
+  "Spotify_url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN",
+  "album_name": "Nu Funk"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Various Artists",
+  "Spotify_url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of",
+  "album_name": "Ballads in Bossa (The Colors of Love Ballads)"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Scott Bradlee's Postmodern Jukebox",
+  "Spotify_url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc",
+  "album_name": "Selfies on Kodachrome"
+}{
+  "song_title": "Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)",
+  "artist_name": "\"Weird Al\" Yankovic",
+  "Spotify_url": "https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG",
+  "album_name": "The Essential \"Weird Al\" Yankovic"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Various Artists",
+  "Spotify_url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of",
+  "album_name": "NOW That's What I Call 90s Pop"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "#90s Update",
+  "Spotify_url": "https://open.spotify.com/artist/283labP4pvBfnIeozzFzR3",
+  "album_name": "#90s Update"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Kyle Olthoff",
+  "Spotify_url": "https://open.spotify.com/artist/7LfubERo7MbImr0DkPBifZ",
+  "album_name": "I Want It That Way"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Scott Bradlee's Postmodern Jukebox",
+  "Spotify_url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc",
+  "album_name": "PMJ Is For Lovers: The Love Song Collection"
+}{
+  "song_title": "Good Old Days (feat. Kesha)",
+  "artist_name": "Macklemore",
+  "Spotify_url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY",
+  "album_name": "GEMINI"
+}{
+  "song_title": "Grandpa (Tell Me 'Bout The Good Old Days)",
+  "artist_name": "The Judds",
+  "Spotify_url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc",
+  "album_name": "I Will Stand By You - The Essential Collection"
+}{
+  "song_title": "Grandpa (Tell Me 'Bout The Good Old Days)",
+  "artist_name": "The Judds",
+  "Spotify_url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc",
+  "album_name": "Rockin' With The Rhythm"
+}{
+  "song_title": "Good Old Days",
+  "artist_name": "blink-182",
+  "Spotify_url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP",
+  "album_name": "California (Deluxe Edition)"
+}{
+  "song_title": "Good Old Days",
+  "artist_name": "Kidz Bop Kids",
+  "Spotify_url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW",
+  "album_name": "KIDZ BOP 37"
+}{
+  "song_title": "The Good Old Days",
+  "artist_name": "Reel Big Fish",
+  "Spotify_url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW",
+  "album_name": "Life Sucks... Let's Dance!"
+}{
+  "song_title": "Good old days",
+  "artist_name": "JANG DEOK CHEOL",
+  "Spotify_url": "https://open.spotify.com/artist/7bxWk0Z4S3IFnHX3LOBktS",
+  "album_name": "Good old days"
+}{
+  "song_title": "Good Old Days",
+  "artist_name": "Blue Rain Boots",
+  "Spotify_url": "https://open.spotify.com/artist/2zautAwUDuz4oyCf7N9Hfv",
+  "album_name": "Good Old Days"
+}{
+  "song_title": "Good Old Days",
+  "artist_name": "Brian Iannucci",
+  "Spotify_url": "https://open.spotify.com/artist/5MT8oIOXjXn1ljyjTopaJc",
+  "album_name": "Good Old Days"
+}{
+  "song_title": "Grandpa (Tell Me 'Bout The Good Old Days)",
+  "artist_name": "Various Artists",
+  "Spotify_url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of",
+  "album_name": "80's Hits Country - Great Records Of The Decade, Vol. 1"
+}{
+  "song_title": "Good Old Days",
+  "artist_name": "Emapea",
+  "Spotify_url": "https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6",
+  "album_name": "Seeds, Roots & Fruits"
+}{
+  "song_title": "The Good Old Days",
+  "artist_name": "The Libertines",
+  "Spotify_url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7",
+  "album_name": "Up The Bracket"
+}{
+  "song_title": "Good Old Days (feat. Kesha)",
+  "artist_name": "Macklemore",
+  "Spotify_url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY",
+  "album_name": "GEMINI"
+}{
+  "song_title": "One of These Good Old Days",
+  "artist_name": "Al Green",
+  "Spotify_url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93",
+  "album_name": "I'm Still in Love with You"
+}{
+  "song_title": "Good Old Days",
+  "artist_name": "Ross Ellis",
+  "Spotify_url": "https://open.spotify.com/artist/3aUXK61VCf5255a0LqhuPQ",
+  "album_name": "Home for the Weekend"
+}{
+  "song_title": "Them Good Old Days",
+  "artist_name": "Shotgun Shane",
+  "Spotify_url": "https://open.spotify.com/artist/0t4OC45mZTJBIjcIJmu4xw",
+  "album_name": "Them Good Old Days"
+}{
+  "song_title": "Good Old Days",
+  "artist_name": "Joakim Karud",
+  "Spotify_url": "https://open.spotify.com/artist/0iAOXvEDIMaAWPP5Ur0fYF",
+  "album_name": "Zoned Out"
+}{
+  "song_title": "Grandpa (Tell Me ‘Bout The Good Old Days) - The Voice Performance",
+  "artist_name": "Danielle Bradbery",
+  "Spotify_url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN",
+  "album_name": "The Complete Season 4 Collection (The Voice Performance)"
+}{
+  "song_title": "Good Old Days",
+  "artist_name": "The Features",
+  "Spotify_url": "https://open.spotify.com/artist/3FaKHeTy1zMZVtQAvwaF0x",
+  "album_name": "Good Old Days"
+}{
+  "song_title": "Grandpa (Tell Me 'Bout The Good Old Days)",
+  "artist_name": "The Judds",
+  "Spotify_url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc",
+  "album_name": "All-Time Greatest Hits"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Sunrise",
+  "state": "FL",
+  "date": "2019-03-01T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Tampa",
+  "state": "FL",
+  "date": "2019-03-03T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Jacksonville",
+  "state": "FL",
+  "date": "2019-03-05T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Columbia",
+  "state": "SC",
+  "date": "2019-03-07T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Charlotte",
+  "state": "NC",
+  "date": "2019-03-09T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Nashville",
+  "state": "TN",
+  "date": "2019-03-10T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Atlanta",
+  "state": "GA",
+  "date": "2019-03-12T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Birmingham",
+  "state": "AL",
+  "date": "2019-03-14T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Bossier City",
+  "state": "LA",
+  "date": "2019-03-16T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "New Orleans",
+  "state": "LA",
+  "date": "2019-03-17T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Houston",
+  "state": "TX",
+  "date": "2019-03-19T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "San Antonio",
+  "state": "TX",
+  "date": "2019-03-21T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Oklahoma City",
+  "state": "OK",
+  "date": "2019-03-23T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Dallas",
+  "state": "TX",
+  "date": "2019-03-24T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Glendale",
+  "state": "AZ",
+  "date": "2019-03-30T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Denver",
+  "state": "CO",
+  "date": "2019-04-01T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "date": "2019-04-03T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Vancouver",
+  "state": "",
+  "date": "2019-04-05T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "Pepsi Live at Rogers Arena",
+  "city": "Vancouver",
+  "state": "",
+  "date": "2019-04-06T16:35:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Portland",
+  "state": "OR",
+  "date": "2019-04-08T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Sacramento",
+  "state": "CA",
+  "date": "2019-04-10T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Las Vegas",
+  "state": "NV",
+  "date": "2019-04-12T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "Honda Center",
+  "city": "Anaheim",
+  "state": "CA",
+  "date": "2019-04-13T19:30:00",
+  "name": "P!nk"
+}{
+  "venue": "Staples Center",
+  "city": "Los Angeles",
+  "state": "CA",
+  "date": "2019-04-15T19:30:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "San Jose",
+  "state": "CA",
+  "date": "2019-04-17T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Los Angeles",
+  "state": "CA",
+  "date": "2019-04-19T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "Little Caesars Arena ",
+  "city": "Detroit",
+  "state": "MI",
+  "date": "2019-04-26T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Detroit",
+  "state": "MI",
+  "date": "2019-04-27T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Indianapolis",
+  "state": "IN",
+  "date": "2019-04-30T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Milwaukee",
+  "state": "WI",
+  "date": "2019-05-02T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Fargo",
+  "state": "ND",
+  "date": "2019-05-04T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "St Paul",
+  "state": "MN",
+  "date": "2019-05-05T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Omaha",
+  "state": "NE",
+  "date": "2019-05-07T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Lexington",
+  "state": "KY",
+  "date": "2019-05-09T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Columbus",
+  "state": "OH",
+  "date": "2019-05-11T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Toronto",
+  "state": "",
+  "date": "2019-05-13T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "Scotiabank Arena",
+  "city": "Toronto",
+  "state": "",
+  "date": "2019-05-14T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "Bell Centre ",
+  "city": "Montreal",
+  "state": "",
+  "date": "2019-05-17T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "Montreal",
+  "state": "",
+  "date": "2019-05-18T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "P!NK: BEAUTIFUL TRAUMA WORLD TOUR",
+  "city": "New York",
+  "state": "NY",
+  "date": "2019-05-21T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "Madison Square Garden",
+  "city": "New York",
+  "state": "NY",
+  "date": "2019-05-22T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "Johan Cruijff Stadium",
+  "city": "Amsterdam",
+  "state": "",
+  "date": "2019-06-16T19:00:15",
+  "name": "P!nk"
+}{
+  "venue": "RDS",
+  "city": "Dublin",
+  "state": "",
+  "date": "2019-06-18T19:00:10",
+  "name": "P!nk"
+}{
+  "venue": "Principality Stadium",
+  "city": "Cardiff",
+  "state": "",
+  "date": "2019-06-20T19:00:25",
+  "name": "P!nk"
+}{
+  "venue": "Hampden Park",
+  "city": "Glasgow",
+  "state": "",
+  "date": "2019-06-22T19:00:03",
+  "name": "P!nk"
+}{
+  "venue": "Hampden Park",
+  "city": "Glasgow",
+  "state": "",
+  "date": "2019-06-23T19:00:55",
+  "name": "P!nk"
+}{
+  "venue": "Anfield Stadium",
+  "city": "Liverpool",
+  "state": "",
+  "date": "2019-06-25T19:00:42",
+  "name": "P!nk"
+}{
+  "venue": "Rock Werchter Festival ",
+  "city": "Werchter",
+  "state": "",
+  "date": "2019-06-27T19:00:56",
+  "name": "P!nk"
+}{
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "state": "",
+  "date": "2019-06-29T19:00:44",
+  "name": "P!nk"
+}{
+  "venue": "Wembley Stadium",
+  "city": "London",
+  "state": "",
+  "date": "2019-06-30T19:00:38",
+  "name": "P!nk"
+}{
+  "venue": "La Defense Arena",
+  "city": "Paris",
+  "state": "",
+  "date": "2019-07-03T19:00:09",
+  "name": "P!nk"
+}{
+  "venue": "Rhein Energie Stadion",
+  "city": "Cologne",
+  "state": "",
+  "date": "2019-07-05T19:00:55",
+  "name": "P!nk"
+}{
+  "venue": "Rhein Energie Stadion",
+  "city": "Cologne",
+  "state": "",
+  "date": "2019-07-06T19:00:15",
+  "name": "P!nk"
+}{
+  "venue": "Volksparkstadion",
+  "city": "Hamburg",
+  "state": "",
+  "date": "2019-07-08T19:00:26",
+  "name": "P!nk"
+}{
+  "venue": "Mercedes-Benz Arena",
+  "city": "Stuttgart",
+  "state": "",
+  "date": "2019-07-10T19:00:56",
+  "name": "P!nk"
+}{
+  "venue": "HDI Arena",
+  "city": "Hannover",
+  "state": "",
+  "date": "2019-07-12T19:00:25",
+  "name": "P!nk"
+}{
+  "venue": "Olympiastadion Berlin",
+  "city": "Berlin",
+  "state": "",
+  "date": "2019-07-14T19:00:54",
+  "name": "P!nk"
+}{
+  "venue": "PGE Narodowy Stadium",
+  "city": "Warsaw",
+  "state": "",
+  "date": "2019-07-20T19:00:33",
+  "name": "P!nk"
+}{
+  "venue": "Commerzbank Arena",
+  "city": "Frankfurt",
+  "state": "",
+  "date": "2019-07-22T19:00:08",
+  "name": "P!nk"
+}{
+  "venue": "Ernst Happel Stadium",
+  "city": "Wien",
+  "state": "",
+  "date": "2019-07-24T19:00:53",
+  "name": "P!nk"
+}{
+  "venue": "Olympiastadion Munchen",
+  "city": "München",
+  "state": "",
+  "date": "2019-07-26T19:00:49",
+  "name": "P!nk"
+}{
+  "venue": "Olympiastadion Munchen",
+  "city": "München",
+  "state": "",
+  "date": "2019-07-27T19:00:00",
+  "name": "P!nk"
+}{
+  "venue": "Letzigrund Stadium",
+  "city": "Zürich",
+  "state": "",
+  "date": "2019-07-30T19:00:25",
+  "name": "P!nk"
+}{
+  "venue": "Tele2 Arena",
+  "city": "Stockholm",
+  "state": "",
+  "date": "2019-08-03T19:00:03",
+  "name": "P!nk"
+}{
+  "venue": "Telenor Arena",
+  "city": "Oslo",
+  "state": "",
+  "date": "2019-08-05T19:00:16",
+  "name": "P!nk"
+}{
+  "venue": "Stadium Casa Arena",
+  "city": "Horsens",
+  "state": "",
+  "date": "2019-08-07T19:00:15",
+  "name": "P!nk"
+}{
+  "venue": "VELTINS-Arena",
+  "city": "Ge",
+  "state": "",
+  "date": "2019-08-09T19:00:36",
+  "name": "P!nk"
+}{
+  "venue": "Malieveld Pavillion",
+  "city": "Den Haag",
+  "state": "",
+  "date": "2019-08-11T19:00:14",
+  "name": "P!nk"
+}{
+  "venue": "Rock in Rio",
+  "city": "Rio De Janeiro",
+  "state": "",
+  "date": "2019-10-05T19:00:51",
+  "name": "P!nk"
+}{
+  "movie_title": "Mean Girls",
+  "release_year": "2004",
+  "imdb_rating": "7.0",
+  "tomatoes_rating": "83%",
+  "country": "USA, Canada",
+  "language": "English, German, Vietnamese, Swahili",
+  "plot": "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
+  "actors": "Lindsay Lohan, Rachel McAdams, Tina Fey, Tim Meadows"
+}{
+  "movie_title": "The Dark Crystal",
+  "release_year": "1982",
+  "imdb_rating": "7.2",
+  "tomatoes_rating": "73%",
+  "country": "USA, UK",
+  "language": "English",
+  "plot": "On another planet in the distant past, a Gelfling embarks on a quest to find the missing shard of a magical crystal, and so restore order to his world.",
+  "actors": "Jim Henson, Kathryn Mullen, Frank Oz, Dave Goelz"
+}{
+  "venue": "St. Pat's in Five Points",
+  "city": "Columbia",
+  "state": "SC",
+  "date": "2019-03-16T13:00:39",
+  "name": "Dashboard Confessional"
+}{
+  "venue": "BUKU Music + Art Project",
+  "city": "New Orleans",
+  "state": "LA",
+  "date": "2019-03-23T13:00:43",
+  "name": "Dashboard Confessional"
+}{
+  "venue": "Shaky Knees Festival",
+  "city": "Atlanta",
+  "state": "GA",
+  "date": "2019-05-03T13:00:08",
+  "name": "Dashboard Confessional"
+}{
+  "venue": "Dover International Speedway",
+  "city": "Dover",
+  "state": "DE",
+  "date": "2019-06-21T13:00:39",
+  "name": "Dashboard Confessional"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Backstreet Boys",
+  "Spotify_url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7",
+  "album_name": "The Hits--Chapter One"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Backstreet Boys",
+  "Spotify_url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7",
+  "album_name": "Millennium"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Anthem Lights",
+  "Spotify_url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ",
+  "album_name": "Covers Part IV"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Tyler and Mark",
+  "Spotify_url": "https://open.spotify.com/artist/6dBIk14xcZqU0cRsyjXNkX",
+  "album_name": "Beautiful Dreams"
+}{
+  "song_title": "Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)",
+  "artist_name": "\"Weird Al\" Yankovic",
+  "Spotify_url": "https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG",
+  "album_name": "Poodle Hat"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Various Artists",
+  "Spotify_url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of",
+  "album_name": "Punk Goes Pop"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Various Artists",
+  "Spotify_url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of",
+  "album_name": "90 Sweet 90s Hits!"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "NKOTBSB",
+  "Spotify_url": "https://open.spotify.com/artist/4BjHiejt4AKg6BHeCjtAcF",
+  "album_name": "NKOTBSB"
+}{
+  "song_title": "Bye Bye Bye / I Want It That Way (Glee Cast Version)",
+  "artist_name": "Glee Cast",
+  "Spotify_url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm",
+  "album_name": "Bye Bye Bye / I Want It That Way (Glee Cast Version)"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Manuel Costa",
+  "Spotify_url": "https://open.spotify.com/artist/7AbYSzOocUvzy7DSJ9gm68",
+  "album_name": "I Want It That Way"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Boyce Avenue",
+  "Spotify_url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv",
+  "album_name": "Cover Sessions, Vol. 2"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Steel Panther",
+  "Spotify_url": "https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv",
+  "album_name": "I Want It That Way"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Scary Pockets",
+  "Spotify_url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN",
+  "album_name": "Nu Funk"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Various Artists",
+  "Spotify_url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of",
+  "album_name": "Ballads in Bossa (The Colors of Love Ballads)"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Scott Bradlee's Postmodern Jukebox",
+  "Spotify_url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc",
+  "album_name": "Selfies on Kodachrome"
+}{
+  "song_title": "Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)",
+  "artist_name": "\"Weird Al\" Yankovic",
+  "Spotify_url": "https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG",
+  "album_name": "The Essential \"Weird Al\" Yankovic"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Various Artists",
+  "Spotify_url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of",
+  "album_name": "NOW That's What I Call 90s Pop"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "#90s Update",
+  "Spotify_url": "https://open.spotify.com/artist/283labP4pvBfnIeozzFzR3",
+  "album_name": "#90s Update"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Kyle Olthoff",
+  "Spotify_url": "https://open.spotify.com/artist/7LfubERo7MbImr0DkPBifZ",
+  "album_name": "I Want It That Way"
+}{
+  "song_title": "I Want It That Way",
+  "artist_name": "Scott Bradlee's Postmodern Jukebox",
+  "Spotify_url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc",
+  "album_name": "PMJ Is For Lovers: The Love Song Collection"
+}
