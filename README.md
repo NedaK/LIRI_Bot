@@ -9,6 +9,7 @@ To see LIRI-Bot in action, check out these screen shots:
 ![node liri.js do-what-this-is](ScreenShot_doThis.png/)
 
 
+     HOW TO USE LIRI_BOT:
 1. `node liri.js concert-this <artist/band name here>`
 
    * This will search the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"`) for an artist and render the following information about each event to the terminal:
@@ -17,7 +18,13 @@ To see LIRI-Bot in action, check out these screen shots:
 
      * Venue location
 
-     * Date of the Event (use moment to format this as "MM/DD/YYYY")
+     * Date of the Event (use moment to format this as "MM/DD/YYYY").
+
+     * Time of the Event (formatted with moment).
+
+     * Artist Name
+
+     * If no song band is provided then your program will default to "Jusin Timberlake".
 
 2. `node liri.js spotify-this-song '<song name here>'`
 
@@ -58,14 +65,18 @@ To see LIRI-Bot in action, check out these screen shots:
 
    * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
-     * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
+    
+     * The current lines in `random.txt` are as follows:
+          movie-this,The Dark Crystal
+          spotify-this-song,"I Want it that way"
+          concert-this,Dashboard Confessional
 
-     * Edit the text in random.txt to test out the feature for movie-this and concert-this.
+      * It should run  `movie-this` for the Dark Crystal, `spotify-this-song` for "I Want it That Way," and `concert-this` for Dashboard Confessional.
 
-### BONUS
 
-* In addition to logging the data to your terminal/bash window, output the data to a .txt file called `log.txt`.
+### BONUS - Writing to a File
 
-* Make sure you append each command you run to the `log.txt` file. 
+* In addition to logging the data to your terminal/bash window, LIRI_Bot will output the data to a .txt file called `log.txt`.
 
-* Do not overwrite your file each time you run a command.
+* The data is appended each time you run the liri.js file.
+
